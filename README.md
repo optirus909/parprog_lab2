@@ -1,7 +1,7 @@
 # Лабораторная работа 2 по параллельному программированию
 
 ## Вариант общий
-__Реализация__: 2lab_parallel_main.c
+__Реализация__: `2lab_parallel_main.c`
 
 ![Boost plot](https://github.com/optirus909/parprog_lab2/blob/main/main_boost.png)
 <div align="center">
@@ -72,7 +72,7 @@ for (i = 1; i < ISIZE - 1; i++)
 }
 ```
 
-__Реализация__: 2lab_parallel_1d.c
+__Реализация__: `2lab_parallel_1d.c`
 
 Аналогично 1г:
 
